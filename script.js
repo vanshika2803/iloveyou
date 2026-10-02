@@ -14,12 +14,12 @@ const pageLinks = {
     {x:72, y:48, w:17, h:30, to:7, label:"Gift 4"}
   ],
 
-  4: [{x:5, y:70, w:19, h:25, to:3, label:"Back to gifts"}],
+  4: [{x:22, y:69, w:9, h:12, to:3, label:"Back to gifts"}],
   5: [{x:5, y:70, w:20, h:25, to:3, label:"Back to gifts"}],
   6: [{x:4, y:2, w:20, h:24, to:3, label:"Back to gifts"}],
   7: [
-    {x:5, y:69, w:20, h:27, to:3, label:"Back to gifts"},
-    {x:82, y:69, w:14, h:27, to:8, label:"Next"}
+  {x:5, y:69, w:20, h:27, to:3, label:"Back to gifts"},
+  {x:58, y:68, w:16, h:22, to:8, label:"Next"}
   ],
   8: [{x:82, y:69, w:14, h:27, to:9, label:"Next"}],
   9: [{x:51, y:72, w:18, h:18, to:1, label:"Back to start"}]
