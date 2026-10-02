@@ -33,8 +33,8 @@ const pageLinks = {
 
   7: [
   {x:5, y:69, w:20, h:27, to:3, label:"Back to gifts"},
-  {x:57, y:74, w:14, h:16, to:8, label:"Next"}
-],
+  {x:45, y:55, w:50, h:45, to:8, label:"Next"}
+  ],
 
   8: [
     {x:82, y:69, w:14, h:27, to:9, label:"Next"}
