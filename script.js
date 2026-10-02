@@ -37,7 +37,7 @@ const pageLinks = {
   ],
 
   8: [
-    {x:82, y:69, w:14, h:27, to:9, label:"Next"}
+  {x:65, y:55, w:30, h:45, to:9, label:"Next"}
   ],
 
   9: [
